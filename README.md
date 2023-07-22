@@ -18,10 +18,8 @@ Simulasi rangkaian palang pintu otomatis
 
 2. Masukkan file berikut ke dalam rangkaian proteus:
 
-   
    UltraSonicTEP.HEX -> ultrasonic sensor
 
-   
    Source_Code.ino.hex -> arduino uno
    
 4. Arudino IDE - Rangkaian Fisik/Source_Code/Source_Code.ino => custom kode arduino uno pada rangkaian fisik
