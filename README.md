@@ -13,7 +13,9 @@ Simulasi rangkaian palang pintu otomatis
 ![Alt text](https://github.com/andreanfirdhaus/palang-pintu-otomatis/blob/main/Simulasi%20Rangkaian.png)
 
 1. Copy semua file TEP dan LIB yang ada di folder library "Arduino & Sensor Ultrasonic", kemudian Paste di folder LIBRARY pada Proteus:
+   
    "C:\Program Files (x86)\Labcenter Electronics\Proteus 7 Professional\LIBRARY"
+
    "C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY"
 
 2. Masukkan file berikut ke dalam rangkaian proteus:
@@ -22,6 +24,6 @@ Simulasi rangkaian palang pintu otomatis
 
    Source_Code.ino.hex -> arduino uno
    
-4. Arudino IDE - Rangkaian Fisik/Source_Code/Source_Code.ino => custom kode arduino uno pada rangkaian fisik
+3. Arudino IDE - Rangkaian Fisik/Source_Code/Source_Code.ino => custom kode arduino uno pada rangkaian fisik
 
-5. Proteus - Simulasi Rangkaian/Arduino IDE - Simulasi Rangkaian/Source_Code/Source_Code.ino => custom kode arduino uno pada simulasi rangkaian proteus
+4. Proteus - Simulasi Rangkaian/Arduino IDE - Simulasi Rangkaian/Source_Code/Source_Code.ino => custom kode arduino uno pada simulasi rangkaian proteus
